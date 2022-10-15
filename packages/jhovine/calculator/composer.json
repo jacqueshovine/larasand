@@ -1,0 +1,17 @@
+{
+    "name": "jhovine/calculator",
+    "description": "Demo package for training purposes",
+    "autoload": {
+        "psr-4": {
+            "Jhovine\\Calculator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jacqueshovine",
+            "email": "jacko@duck.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
