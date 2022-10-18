@@ -23,7 +23,7 @@
     "autoload": {
         "psr-4": {
             "App\\": "app/",
-            "Jhovine\\Calculator\\": "packages/jhovine/calculator/src/",
+            "Jhovine\\Calculator\\": "src/",
             "Database\\Factories\\": "database/factories/",
             "Database\\Seeders\\": "database/seeders/"
         }
